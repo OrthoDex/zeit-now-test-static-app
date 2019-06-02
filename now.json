@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "my-app",
+  "build": 
+    {"src": "index.html", "use": "@now/static"}
+}
